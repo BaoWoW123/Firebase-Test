@@ -1,0 +1,10 @@
+// config firebase sdk
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCpOgrRhxvl_9mb2PhdbLEovC-mBkpqL98",
+  authDomain: "friendlychat-16e7d.firebaseapp.com",
+  projectId: "friendlychat-16e7d",
+  storageBucket: "friendlychat-16e7d.appspot.com",
+  messagingSenderId: "515744411053",
+  appId: "1:515744411053:web:384318dd1ea06db8b10524"
+};
